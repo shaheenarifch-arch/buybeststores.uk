@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="64" viewBox="0 0 300 64" role="img" aria-labelledby="title desc">
+<title id="title">SmartTech Inc.</title><desc id="desc">SmartTech Inc. footer logo</desc>
+<rect width="64" height="64" rx="16" fill="#1764f5"/>
+<path d="M17 17h32v10H29v7h19v12H16V36h21v-8H17z" fill="#ffffff"/>
+<text x="78" y="42" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" fill="#ffffff">Smart</text>
+<text x="163" y="42" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" fill="#65a0ff">Tech</text>
+<text x="244" y="42" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#b8c0cf">Inc.</text>
+</svg>
