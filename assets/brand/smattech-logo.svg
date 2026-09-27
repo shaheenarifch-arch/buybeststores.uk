@@ -1,1 +1,12 @@
-
+.hero{
+  background:
+    linear-gradient(
+      90deg,
+      rgba(255,255,255,.99) 0%,
+      rgba(255,255,255,.97) 45%,
+      rgba(255,255,255,.82) 63%,
+      rgba(255,255,255,.15) 80%
+    ),
+    url('/smattech-hero.png?v=7')
+    center/cover no-repeat;
+}
