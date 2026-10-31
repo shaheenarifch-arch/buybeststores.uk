@@ -12,5 +12,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 9.79
+  },
+  {
+    "keyword": "UK consumer electronics complete guide: how to choose the right tech",
+    "title": "UK consumer electronics complete guide",
+    "description": "UK consumer electronics complete guide: how to choose the right tech for your home, with a decision framework, scenarios and mistakes to avoid.",
+    "file": "uk-consumer-electronics-complete-guide-how-to-choose-the-right-tech.html",
+    "date": "2026-10-31",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.78,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 8.77
   }
 ]
